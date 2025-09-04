@@ -1,6 +1,6 @@
 # SwiftUI Product Showcase App
 
-![APP UI](productapp.png)
+<img width="1344" height="768" alt="productapp" src="https://github.com/user-attachments/assets/d2eab161-c9be-41b2-b531-0bb068046ba3" />
 
 
 ## Overview
